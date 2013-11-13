@@ -1,3 +1,7 @@
+## CSS Color Picker
+
+This is a fix for the css color picker in textmate2 in the default css textmate bundle.  It is provided as its own bundle.
+
 ### How to Install
 
 1. Make a **new bundles folder** `mkdir -p ~/Library/Application\ Support/TextMate/Bundles`
