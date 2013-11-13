@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Ryan Stout</string>
+	<key>description</key>
+	<string>This bundle fixes the Insert Color command</string>
+	<key>isDisabled</key>
+	<false/>
+	<key>name</key>
+	<string>CSS Color Picker</string>
+	<key>uuid</key>
+	<string>5A0A9702-E2E7-4D72-B47C-C1525253074D</string>
+</dict>
+</plist>
