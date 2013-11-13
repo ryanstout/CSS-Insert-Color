@@ -7,5 +7,5 @@ This is a fix for the css color picker in textmate2 in the default css textmate 
 1. Make a **new bundles folder** `mkdir -p ~/Users/ryanstout/Library/Application Support/Avian/Bundles`
 2. **Open** the new folder `cd ~/Users/ryanstout/Library/Application Support/Avian/Bundles`
 3. **Clone** to your new folder `git clone https://github.com/ryanstout/CSS-Insert-Color.git "CSS Insert Color.tmbundle"`
-4. **Reload** TextMate Bundles `osascript -e 'tell app "TextMate" to reload bundles'`
+4. Restart textmate2 (anyone know how to reload bundles from the command line?)
 5. Disable the CMD+SHIFT+C option in the main css bundle
